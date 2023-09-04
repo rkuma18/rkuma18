@@ -91,4 +91,5 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Data Visualization and its Wonders](https://medium.com/@rkuma18/data-visualization-and-its-wonders-69ee0edf8e71?source=rss-4c12f5049ddf------2)
 <!-- BLOG-POST-LIST:END -->
