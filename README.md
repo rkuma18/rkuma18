@@ -59,26 +59,86 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Programming Languages :
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-plain.svg" title="d3js" alt="d3js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="pytorch" alt="pytorch" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="rstudio" alt="rstudio " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg"  title="tensorflow" alt="tensorflow" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg" title="vim" alt="vim" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="visualstudio" alt="visualstudio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/linux.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/microsoftexcel.svg" title="microsoftexcel" alt="microsoftexcel" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <a href="https://www.python.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+    <a href="https://www.r-project.org/" target="_blank"> 
+      <img src="https://www.r-project.org/logo/Rlogo.svg" alt="r" width="40" height="40"/> 
+    </a>
+    <a href="https://www.oracle.com/database/" target="_blank"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.linux.org/" target="_blank"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+    </a>
+    <a href="https://www.json.org/" target="_blank"> 
+      <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.w3.org/XML/" target="_blank"> 
+      <img src="https://www.vectorlogo.zone/logos/xml/xml-ar21.svg" alt="XML" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.gnu.org/software/bash/" target="_blank"> 
+      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
+    </a>
 </div>
 
----
+### Technologies
+
+<div>
+  <a href="https://www.oracle.com/database/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
+  </a> 
+  <a href="https://en.wikipedia.org/wiki/Agile_software_development" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/agile/agile-original.svg" alt="agile" width="40" height="40"/> 
+  </a> 
+  <a href="https://aws.amazon.com/cli/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.atlassian.com/software/confluence" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/atlassian_confluence/atlassian_confluence-icon.svg" alt="confluence" width="40" height="40"/> 
+  </a>
+</div>
+
+### Tools
+<div>
+  <a href="https://www.oracle.com/tools/technologies/sql-developer/what-is-sqldev.html" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
+  </a> 
+  <a href="https://colab.research.google.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/google_colab/google_colab-icon.svg" alt="colab" width="40" height="40"/> 
+  </a> 
+  <a href="https://jupyter.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" alt="excel" width="40" height="40"/> 
+  </a> 
+  <a href="https://powerbi.microsoft.com/en-us/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.axelos.com/best-practice-solutions/itil" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/itil/itil-plain-wordmark.svg" alt="itil" width="40" height="40"/> 
+  </a> 
+  <a href="https://en.wikipedia.org/wiki/Systems_development_life_cycle" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sdlc/sdlc-original.svg" alt="sdlc" width="40" height="40"/> 
+  </a>
+</div>
+
+### Collaboration
+<div>
+  <a href="https://en.wikipedia.org/wiki/Cross-functional_team" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/teamfoundationserver/teamfoundationserver-original.svg" alt="tfs" width="40" height="40"/> 
+  </a> 
+  <a href="https://en.wikipedia.org/wiki/Requirements_analysis" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" alt="redhat" width="40" height="40"/> 
+  </a> 
+  <a href="https://en.wikipedia.org/wiki/Stakeholder_(corporate)" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> 
+  </a>
+</div>
 
 ### :fire: My Stats :
 
