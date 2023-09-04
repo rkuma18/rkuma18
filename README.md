@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in London.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: Seeking a challenging role that allows me to leverage my technical expertise and analytical skills to contribute to the success of a dynamic organization.
 
 - :seedling: Exploring Technical Content Writing.
 
