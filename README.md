@@ -59,7 +59,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 ---
 
-### :hammer_and_wrench: Programming Languages :
+### :hammer_and_wrench: Programming Languages and Tools:
 
 <div>
   <a href="https://www.python.org/" target="_blank"> 
@@ -78,65 +78,66 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
       <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" width="40" height="40"/> 
     </a> 
     <a href="https://www.w3.org/XML/" target="_blank"> 
-      <img src="https://www.vectorlogo.zone/logos/xml/xml-ar21.svg" alt="XML" width="40" height="40"/> 
+      <img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" alt="XML" width="40" height="40"/> 
     </a> 
     <a href="https://www.gnu.org/software/bash/" target="_blank"> 
       <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
     </a>
-</div>
-
-### Technologies
-
-<div>
-  <a href="https://www.oracle.com/database/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-  </a> 
+ 
   <a href="https://en.wikipedia.org/wiki/Agile_software_development" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/agile/agile-original.svg" alt="agile" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/agilestacks/agilestacks-icon.svg" alt="agile" width="40" height="40"/> 
   </a> 
   <a href="https://aws.amazon.com/cli/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> 
   </a> 
   <a href="https://www.atlassian.com/software/confluence" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/atlassian_confluence/atlassian_confluence-icon.svg" alt="confluence" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="confluence" width="40" height="40"/> 
   </a>
-</div>
-
-### Tools
-<div>
-  <a href="https://www.oracle.com/tools/technologies/sql-developer/what-is-sqldev.html" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-  </a> 
   <a href="https://colab.research.google.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/google_colab/google_colab-icon.svg" alt="colab" width="40" height="40"/> 
+    <img src="https://colab.research.google.com/favicon.ico" alt="colab" width="40" height="40">
+    <span style="font-size: 1.2em; font-weight: bold; background: #F9AB00; color: #fff; padding: 0.2em 0.5em; border-radius: 0.5em;">
+    Colab
+  </span>
   </a> 
   <a href="https://jupyter.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> 
   </a> 
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" alt="excel" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="excel" width="40" height="40">
   </a> 
   <a href="https://powerbi.microsoft.com/en-us/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> 
   </a> 
-  <a href="https://www.axelos.com/best-practice-solutions/itil" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/itil/itil-plain-wordmark.svg" alt="itil" width="40" height="40"/> 
-  </a> 
-  <a href="https://en.wikipedia.org/wiki/Systems_development_life_cycle" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sdlc/sdlc-original.svg" alt="sdlc" width="40" height="40"/> 
-  </a>
-</div>
-
-### Collaboration
-<div>
-  <a href="https://en.wikipedia.org/wiki/Cross-functional_team" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/teamfoundationserver/teamfoundationserver-original.svg" alt="tfs" width="40" height="40"/> 
-  </a> 
-  <a href="https://en.wikipedia.org/wiki/Requirements_analysis" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" alt="redhat" width="40" height="40"/> 
-  </a> 
-  <a href="https://en.wikipedia.org/wiki/Stakeholder_(corporate)" target="_blank"> 
+  
+  <a href="https://www.sqlite.org/download.html" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> 
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Stakeholder_(corporate)" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
+  </a>
+  <a href="https://numpy.org" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/> 
+  </a>
+  <a href="https://cloud.google.com/bigquery" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="google_bigquery" width="40" height="40"/> 
+  </a>
+  <a href="https://plotly.com" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="plot_ly" width="40" height="40"/> 
+  </a>
+  <a href="https://github.com" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/> 
+  </a>
+  <a href="https://www.kaggle.com" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle" width="40" height="40"/> 
+  </a>
+  <a href="https://www.mysql.com" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> 
+  </a>
+  <a href="https://pytorch.org" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+  </a>
+  <a href="https://code.visualstudio.com" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visualstudio_code" width="40" height="40"/> 
   </a>
 </div>
 
