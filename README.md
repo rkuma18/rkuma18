@@ -150,6 +150,11 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 ---
 ###  This week I spent my time on
 <!--START_SECTION:waka-->
+
+```txt
+Python   2 mins          █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 ---
 ### :writing_hand: Blog Posts :
