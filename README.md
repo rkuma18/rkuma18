@@ -148,7 +148,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkuma18&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-###  This week I spent my time on
+###  :bar_chart: This week I spent my time on
 <!--START_SECTION:waka-->
 
 ```txt
