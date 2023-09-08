@@ -152,9 +152,9 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 <!--START_SECTION:waka-->
 
 ```txt
-MySQL      15 mins         ████████████▓░░░░░░░░░░░░   50.89 %
-Python     14 mins         ███████████▓░░░░░░░░░░░░░   46.36 %
-GDScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+GDScript   28 mins         ████████████░░░░░░░░░░░░░   48.55 %
+MySQL      15 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.92 %
+Python     14 mins         ██████░░░░░░░░░░░░░░░░░░░   24.53 %
 ```
 
 <!--END_SECTION:waka-->
