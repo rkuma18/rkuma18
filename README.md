@@ -152,11 +152,10 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 <!--START_SECTION:waka-->
 
 ```txt
-Assembly   19 mins         ██████████▓░░░░░░░░░░░░░░   42.18 %
-Python     17 mins         ██████████░░░░░░░░░░░░░░░   39.39 %
-Bash       4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 %
-GDScript   3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
-Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Python   3 hrs 26 mins   █████████████████████████   99.61 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Prolog   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Ezhil    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
