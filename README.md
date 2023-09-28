@@ -152,10 +152,9 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 <!--START_SECTION:waka-->
 
 ```txt
-Python   23 mins         ████████████████▒░░░░░░░░   65.14 %
-Prolog   10 mins         ███████░░░░░░░░░░░░░░░░░░   28.46 %
-Ezhil    2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
-Other    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+Python   17 mins         ███████████████▓░░░░░░░░░   63.29 %
+Prolog   9 mins          ████████▒░░░░░░░░░░░░░░░░   33.94 %
+Ezhil    0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
 ```
 
 <!--END_SECTION:waka-->
