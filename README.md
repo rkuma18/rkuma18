@@ -53,7 +53,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on Kaggel and Leetcode and read tech articles.
+- :zap: In my free time, I solve problems on Kaggle and Leetcode and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Roushan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/roushankumar18/)
 
