@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me :
 
-I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in London.
+I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based on Earth 🌍.
 
 - :telescope: Seeking a challenging role that allows me to leverage my technical expertise and analytical skills to contribute to the success of a dynamic organization.
 
