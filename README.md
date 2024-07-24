@@ -152,7 +152,10 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+CSS          20 mins         ██████████████░░░░░░░░░░░   55.67 %
+HTML         14 mins         ██████████░░░░░░░░░░░░░░░   40.29 %
+JavaScript   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->
