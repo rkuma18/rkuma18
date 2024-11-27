@@ -152,7 +152,11 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML       51 mins         █████████████░░░░░░░░░░░░   52.53 %
+Bash       42 mins         ███████████░░░░░░░░░░░░░░   43.99 %
+Python     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
