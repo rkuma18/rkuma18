@@ -152,8 +152,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 <!--START_SECTION:waka-->
 
 ```txt
-Bash   0 secs          ██████████████▓░░░░░░░░░░   59.27 %
-YAML   0 secs          ██████████▒░░░░░░░░░░░░░░   40.73 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
