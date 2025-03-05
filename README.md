@@ -121,7 +121,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
   <a href="https://cloud.google.com/bigquery" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="google_bigquery" width="40" height="40"/> 
   </a>
-  <a href="https://plotly.com" target="_blank"> 
+  <a href="https://plotly.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="plot_ly" width="40" height="40"/> 
   </a>
   <a href="https://github.com" target="_blank"> 
