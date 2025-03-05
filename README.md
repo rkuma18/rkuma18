@@ -162,8 +162,9 @@ JavaScript   3 mins          █░░░░░░░░░░░░░░░░
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [K-NN Regression, Weighted Voting, and Voronoi Diagrams](https://medium.com/@rkuma18/k-nn-regression-weighted-voting-and-voronoi-diagrams-1da49d2db65e?source=rss-4c12f5049ddf------2)
+- [Model Evaluation, Overfitting, and Cross-Validation in K-NN](https://medium.com/@rkuma18/model-evaluation-overfitting-and-cross-validation-in-k-nn-cdffdb179285?source=rss-4c12f5049ddf------2)
 - [K-NN Basics — Classification, Geometry, and Distance Metrics](https://medium.com/@rkuma18/k-nn-basics-classification-geometry-and-distance-metrics-480fc59d3f63?source=rss-4c12f5049ddf------2)
 - [Kickstart Your NLP Journey: Key Concepts Explained](https://medium.com/@rkuma18/kickstart-your-nlp-journey-key-concepts-explained-dcd3513148a9?source=rss-4c12f5049ddf------2)
 - [Mastering Calculated Fields in Tableau: A Step-by-Step Guide](https://medium.com/@rkuma18/mastering-calculated-fields-in-tableau-a-step-by-step-guide-b6589cc14d06?source=rss-4c12f5049ddf------2)
-- [Data Visualization and its Wonders](https://medium.com/@rkuma18/data-visualization-and-its-wonders-69ee0edf8e71?source=rss-4c12f5049ddf------2)
 <!-- BLOG-POST-LIST:END -->
