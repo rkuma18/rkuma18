@@ -163,9 +163,9 @@ Docker   4 mins          █▓░░░░░░░░░░░░░░░░�
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [KD-Trees — Speeding Up K-NN for Large Datasets](https://medium.com/@rkuma18/kd-trees-speeding-up-k-nn-for-large-datasets-aa6d1b4ff7a5?source=rss-4c12f5049ddf------2)
+- [Building a Real-World K-NN Pipeline — From Data to Deployment](https://medium.com/@rkuma18/building-a-real-world-k-nn-pipeline-from-data-to-deployment-4eaf48b5da71?source=rss-4c12f5049ddf------2)
+- [Locality Sensitive Hashing &lpar;LSH&rpar; — Scaling K-NN to Billion-Scale Datasets](https://medium.com/@rkuma18/locality-sensitive-hashing-lsh-scaling-k-nn-to-billion-scale-datasets-6b643730c915?source=rss-4c12f5049ddf------2)
 - [K-NN Regression, Weighted Voting, and Voronoi Diagrams](https://medium.com/@rkuma18/k-nn-regression-weighted-voting-and-voronoi-diagrams-1da49d2db65e?source=rss-4c12f5049ddf------2)
 - [Model Evaluation, Overfitting, and Cross-Validation in K-NN](https://medium.com/@rkuma18/model-evaluation-overfitting-and-cross-validation-in-k-nn-cdffdb179285?source=rss-4c12f5049ddf------2)
-- [K-NN Basics — Classification, Geometry, and Distance Metrics](https://medium.com/@rkuma18/k-nn-basics-classification-geometry-and-distance-metrics-480fc59d3f63?source=rss-4c12f5049ddf------2)
-- [Kickstart Your NLP Journey: Key Concepts Explained](https://medium.com/@rkuma18/kickstart-your-nlp-journey-key-concepts-explained-dcd3513148a9?source=rss-4c12f5049ddf------2)
-- [Mastering Calculated Fields in Tableau: A Step-by-Step Guide](https://medium.com/@rkuma18/mastering-calculated-fields-in-tableau-a-step-by-step-guide-b6589cc14d06?source=rss-4c12f5049ddf------2)
 <!-- BLOG-POST-LIST:END -->
