@@ -152,7 +152,9 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   1 hr 24 mins    ███████████████████░░░░░░   75.50 %
+Text     17 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.71 %
+Bash     9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
 ```
 
 <!--END_SECTION:waka-->
