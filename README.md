@@ -152,11 +152,11 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                 13 hrs 1 min    ████████████████▓░░░░░░░░   66.54 %
-Python                     3 hrs 50 mins   █████░░░░░░░░░░░░░░░░░░░░   19.65 %
-JSON                       49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
-JavaScript                 37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-TSConfig                   33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+TypeScript                 13 hrs 4 mins   ███████████████▓░░░░░░░░░   62.07 %
+Python                     4 hrs 2 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.18 %
+JavaScript                 1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+JSON                       1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
+TSConfig                   34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
 ```
 
 <!--END_SECTION:waka-->
