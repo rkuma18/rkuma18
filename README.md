@@ -134,11 +134,11 @@ I'm a **Data Scientist** passionate about transforming complex data into actiona
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [KD-Trees — Speeding Up K-NN for Large Datasets](https://medium.com/@rkuma18/kd-trees-speeding-up-k-nn-for-large-datasets-aa6d1b4ff7a5)
-- [Building a Real-World K-NN Pipeline — From Data to Deployment](https://medium.com/@rkuma18/building-a-real-world-k-nn-pipeline-from-data-to-deployment-4eaf48b5da71)
-- [Locality Sensitive Hashing (LSH) — Scaling K-NN to Billion-Scale Datasets](https://medium.com/@rkuma18/locality-sensitive-hashing-lsh-scaling-k-nn-to-billion-scale-datasets-6b643730c915)
-- [K-NN Regression, Weighted Voting, and Voronoi Diagrams](https://medium.com/@rkuma18/k-nn-regression-weighted-voting-and-voronoi-diagrams-1da49d2db65e)
-- [Model Evaluation, Overfitting, and Cross-Validation in K-NN](https://medium.com/@rkuma18/model-evaluation-overfitting-and-cross-validation-in-k-nn-cdffdb179285)
+- [KD-Trees — Speeding Up K-NN for Large Datasets](https://medium.com/@rkuma18/kd-trees-speeding-up-k-nn-for-large-datasets-aa6d1b4ff7a5?source=rss-4c12f5049ddf------2)
+- [Building a Real-World K-NN Pipeline — From Data to Deployment](https://medium.com/@rkuma18/building-a-real-world-k-nn-pipeline-from-data-to-deployment-4eaf48b5da71?source=rss-4c12f5049ddf------2)
+- [Locality Sensitive Hashing &lpar;LSH&rpar; — Scaling K-NN to Billion-Scale Datasets](https://medium.com/@rkuma18/locality-sensitive-hashing-lsh-scaling-k-nn-to-billion-scale-datasets-6b643730c915?source=rss-4c12f5049ddf------2)
+- [K-NN Regression, Weighted Voting, and Voronoi Diagrams](https://medium.com/@rkuma18/k-nn-regression-weighted-voting-and-voronoi-diagrams-1da49d2db65e?source=rss-4c12f5049ddf------2)
+- [Model Evaluation, Overfitting, and Cross-Validation in K-NN](https://medium.com/@rkuma18/model-evaluation-overfitting-and-cross-validation-in-k-nn-cdffdb179285?source=rss-4c12f5049ddf------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More blog posts...](https://medium.com/@rkuma18)
