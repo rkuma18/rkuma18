@@ -44,25 +44,76 @@ I'm a **Data Scientist** passionate about transforming complex data into actiona
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
 </div>
 
-### Data Science & ML
+### AI/ML Frameworks
 <div>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=for-the-badge&logoColor=black" alt="Transformers"/>
+  <img src="https://img.shields.io/badge/🦜%20LangChain-1C3C3C?style=for-the-badge&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/🕸️%20LangGraph-FF6B6B?style=for-the-badge&logoColor=white" alt="LangGraph"/>
 </div>
 
-### Cloud & Tools
+### AI/ML Specializations
+<div>
+  <img src="https://img.shields.io/badge/Neural%20Networks-FF6B35?style=for-the-badge&logoColor=white" alt="Neural Networks"/>
+  <img src="https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge&logoColor=white" alt="NLP"/>
+  <img src="https://img.shields.io/badge/RAG-9C27B0?style=for-the-badge&logoColor=white" alt="RAG"/>
+  <img src="https://img.shields.io/badge/GenAI-E91E63?style=for-the-badge&logoColor=white" alt="GenAI"/>
+  <img src="https://img.shields.io/badge/LLMs-2196F3?style=for-the-badge&logoColor=white" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logoColor=white" alt="NLTK"/>
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logoColor=white" alt="spaCy"/>
+</div>
+
+### Development Tools
+<div>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logoColor=white" alt="DVC"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logoColor=white" alt="MLflow"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+</div>
+
+### Cloud Platforms
 <div>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Google%20BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="BigQuery"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" alt="S3"/>
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" alt="Lambda"/>
+  <img src="https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logoColor=white" alt="SageMaker"/>
+  <img src="https://img.shields.io/badge/Bedrock-FF9900?style=for-the-badge&logoColor=white" alt="Bedrock"/>
+</div>
+
+### Databases & Storage
+<div>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="BigQuery"/>
+  <img src="https://img.shields.io/badge/FAISS-00D4AA?style=for-the-badge&logoColor=white" alt="FAISS"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logoColor=white" alt="ChromaDB"/>
+  <img src="https://img.shields.io/badge/Vector%20DBs-6C5CE7?style=for-the-badge&logoColor=white" alt="Vector Databases"/>
+</div>
+
+### Statistical Methods
+<div>
+  <img src="https://img.shields.io/badge/Predictive%20Modeling-00BCD4?style=for-the-badge&logoColor=white" alt="Predictive Modeling"/>
+  <img src="https://img.shields.io/badge/Time%20Series-795548?style=for-the-badge&logoColor=white" alt="Time Series"/>
+  <img src="https://img.shields.io/badge/Regression-8BC34A?style=for-the-badge&logoColor=white" alt="Regression"/>
+  <img src="https://img.shields.io/badge/Classification-FF5722?style=for-the-badge&logoColor=white" alt="Classification"/>
+  <img src="https://img.shields.io/badge/Hypothesis%20Testing-607D8B?style=for-the-badge&logoColor=white" alt="Hypothesis Testing"/>
+</div>
+
+### Core Competencies
+<div>
+  <img src="https://img.shields.io/badge/Client%20Relations-FF4081?style=for-the-badge&logoColor=white" alt="Client Relations"/>
+  <img src="https://img.shields.io/badge/Project%20Management-3F51B5?style=for-the-badge&logoColor=white" alt="Project Management"/>
+  <img src="https://img.shields.io/badge/Solution%20Delivery-4CAF50?style=for-the-badge&logoColor=white" alt="Solution Delivery"/>
+  <img src="https://img.shields.io/badge/Strategic%20Problem%20Solving-FF9800?style=for-the-badge&logoColor=white" alt="Strategic Problem-Solving"/>
 </div>
 
 ---
