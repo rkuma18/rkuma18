@@ -152,11 +152,11 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 <!--START_SECTION:waka-->
 
 ```txt
-Python        20 hrs 2 mins   ███████████░░░░░░░░░░░░░░   44.43 %
-JavaScript    17 hrs 11 mins  █████████▓░░░░░░░░░░░░░░░   38.13 %
-Other         2 hrs 25 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
-Markdown      1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
-Text          56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+Python        20 hrs 21 mins  ███████████████░░░░░░░░░░   59.59 %
+JavaScript    6 hrs 29 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.00 %
+Other         2 hrs 25 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
+Markdown      1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+Text          56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
 ```
 
 <!--END_SECTION:waka-->
