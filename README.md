@@ -1,65 +1,82 @@
-# Hi there! 👋 I'm Roushan Kumar
+# Hi there! I'm Roushan Kumar
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Scientist;Machine+Learning+Engineer;Technical+Writer;Problem+Solver" alt="Typing SVG" />
 </div>
 
+<br/>
+
 <div align="center">
   <a href="https://itsrkumar.com/">
-    <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/vercel.svg" alt="Website" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rk0718">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/@rkuma18">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+    <img src="https://cdn.simpleicons.org/medium/000000" alt="Medium" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/rkuma07">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://kaggle.com/rkuma18">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
   </a>
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rkuma18&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
+
+
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a **Data Scientist** passionate about transforming complex data into actionable insights. Currently seeking opportunities to leverage my technical expertise in machine learning, statistical analysis, and data visualization to drive business impact.
 
-- 🔭 **Currently Working On:** LLM, RAG and AgentAI
-- 🌱 **Learning:** MLOps, Deep Learning architectures, and Technical Content Writing
-- 💡 **Interests:** LLM, Value Investing, Trekking and emerging AI technologies
-- 📝 **Writing:** Technical articles on Medium about ML algorithms and data science best practices
-- 🎯 **Goal:** Contributing to innovative data-driven solutions that make a real-world impact
+- **Currently Working On:** LLM, RAG and AgentAI
+- **Learning:** MLOps, Deep Learning architectures, and Technical Content Writing
+- **Interests:** LLM, Value Investing, Trekking and emerging AI technologies
+- **Writing:** Technical articles on Medium about ML algorithms and data science best practices
+- **Goal:** Contributing to innovative data-driven solutions that make a real-world impact
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Programming Languages
 <div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="SQL" width="40" height="40"/>
 </div>
+
 
 ### AI/ML Frameworks
 <div>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=graphql&logoColor=white" alt="LangGraph"/>
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" alt="TensorFlow" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/keras/D00000" alt="Keras" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" alt="PyTorch" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="Scikit-learn" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/openai/412991" alt="OpenAI" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/huggingface/FF6F00" alt="Hugging Face" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/langchain/000000" alt="LangChain" width="40" height="40"/>
+  &nbsp;&nbsp;
 </div>
+
+
 
 ### AI/ML Specializations
 <div>
@@ -69,38 +86,67 @@ I'm a **Data Scientist** passionate about transforming complex data into actiona
   <img src="https://img.shields.io/badge/GenAI-E91E63?style=for-the-badge&logo=artificial-intelligence&logoColor=white" alt="GenAI"/>
   <img src="https://img.shields.io/badge/LLMs-2196F3?style=for-the-badge&logo=large-language-models&logoColor=white" alt="LLMs"/>
   <img src="https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logo=nltk&logoColor=white" alt="NLTK"/>
-  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy"/>
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/spacy.svg" alt="spaCy"/>
 </div>
 
 ### Development Tools
 <div>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white" alt="DVC"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <!-- Tableau (fallback to PNG icon) -->
+  <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" width="40" height="40"/>
+  &nbsp;&nbsp;
+
+  <!-- Excel (fallback to PNG icon) -->
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
+  &nbsp;&nbsp;
+
+  <!-- Docker -->
+  <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="40" height="40"/>
+  &nbsp;&nbsp;
+
+  <!-- Git -->
+  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="40" height="40"/>
+  &nbsp;&nbsp;
+
+  <!-- DVC -->
+  <img src="https://cdn.simpleicons.org/dvc/13ADC7" alt="DVC" width="40" height="40"/>
+  &nbsp;&nbsp;
+
+  <!-- Jupyter -->
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" alt="Jupyter" width="40" height="40"/>
+  &nbsp;&nbsp;
+
+  <!-- MLflow -->
+  <img src="https://cdn.simpleicons.org/mlflow/0194E2" alt="MLflow" width="40" height="40"/>
+  &nbsp;&nbsp;
+
+  <!-- VS Code (fallback to Devicon) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 </div>
+
+
 
 ### Cloud Platforms
 <div>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" alt="S3"/>
-  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" alt="Lambda"/>
-  <img src="https://img.shields.io/badge/Amazon%20SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="SageMaker"/>
-  <img src="https://img.shields.io/badge/Amazon%20Bedrock-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Bedrock"/>
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/amazonwebservices.svg" alt="AWS"/>
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/amazons3.svg" alt="Amazon S3"/>
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/awslambda.svg" alt="AWS Lambda"/>
 </div>
+
 
 ### Databases & Storage
 <div>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="BigQuery"/>
-  <img src="https://img.shields.io/badge/FAISS-00D4AA?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS"/>
-  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=database&logoColor=white" alt="ChromaDB"/>
-  <img src="https://img.shields.io/badge/Vector%20DBs-6C5CE7?style=for-the-badge&logo=vectordatabase&logoColor=white" alt="Vector Databases"/>
+  <!-- MySQL -->
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <!-- BigQuery (Google Cloud icon used as BigQuery is not separate) -->
+  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" alt="BigQuery" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <!-- FAISS (Meta icon used as placeholder) -->
+  <img src="https://cdn.simpleicons.org/meta/00D4AA" alt="FAISS" width="40" height="40"/>
+  &nbsp;&nbsp;
+
 </div>
+
 
 ### Statistical Methods
 <div>
@@ -121,63 +167,65 @@ I'm a **Data Scientist** passionate about transforming complex data into actiona
 
 ---
 
-## 📊 GitHub Analytics
+
+## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rkuma18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkuma18&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rkuma18&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkuma18&layout=compact&theme=radical"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rkuma18&theme=tokyonight" alt="GitHub Streak"/>
+  <picture>
+    <source srcset="https://streak-stats.demolab.com/?user=rkuma18&theme=radical" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://streak-stats.demolab.com/?user=rkuma18&theme=react" media="(prefers-color-scheme: light)" />
+    <img src="https://streak-stats.demolab.com/?user=rkuma18&theme=radical" alt="GitHub Streak"/>
+  </picture>
 </div>
 
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rkuma18&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rkuma18&theme=github-dark&area=true&hide_border=true&custom_title=Contribution+Activity"/>
 </div>
+
+
+---
+## GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rkuma18&theme=gruvbox&row=2&column=4&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies"/>
+</div>
+
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rkuma18&theme=tokyonight&no-frame=false&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 📝 Latest Blog Posts
+## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [KD-Trees — Speeding Up K-NN for Large Datasets](https://medium.com/@rkuma18/kd-trees-speeding-up-k-nn-for-large-datasets-aa6d1b4ff7a5?source=rss-4c12f5049ddf------2)
-- [Building a Real-World K-NN Pipeline — From Data to Deployment](https://medium.com/@rkuma18/building-a-real-world-k-nn-pipeline-from-data-to-deployment-4eaf48b5da71?source=rss-4c12f5049ddf------2)
-- [Locality Sensitive Hashing &lpar;LSH&rpar; — Scaling K-NN to Billion-Scale Datasets](https://medium.com/@rkuma18/locality-sensitive-hashing-lsh-scaling-k-nn-to-billion-scale-datasets-6b643730c915?source=rss-4c12f5049ddf------2)
-- [K-NN Regression, Weighted Voting, and Voronoi Diagrams](https://medium.com/@rkuma18/k-nn-regression-weighted-voting-and-voronoi-diagrams-1da49d2db65e?source=rss-4c12f5049ddf------2)
-- [Model Evaluation, Overfitting, and Cross-Validation in K-NN](https://medium.com/@rkuma18/model-evaluation-overfitting-and-cross-validation-in-k-nn-cdffdb179285?source=rss-4c12f5049ddf------2)
+- [KD-Trees — Speeding Up K-NN for Large Datasets](https://medium.com/@rkuma18/kd-trees-speeding-up-k-nn-for-large-datasets-aa6d1b4ff7a5)
+- [Building a Real-World K-NN Pipeline — From Data to Deployment](https://medium.com/@rkuma18/building-a-real-world-k-nn-pipeline-from-data-to-deployment-4eaf48b5da71)
+- [Locality Sensitive Hashing (LSH) — Scaling K-NN to Billion-Scale Datasets](https://medium.com/@rkuma18/locality-sensitive-hashing-lsh-scaling-k-nn-to-billion-scale-datasets-6b643730c915)
+- [K-NN Regression, Weighted Voting, and Voronoi Diagrams](https://medium.com/@rkuma18/k-nn-regression-weighted-voting-and-voronoi-diagrams-1da49d2db65e)
+- [Model Evaluation, Overfitting, and Cross-Validation in K-NN](https://medium.com/@rkuma18/model-evaluation-overfitting-and-cross-validation-in-k-nn-cdffdb179285)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More blog posts...](https://medium.com/@rkuma18)
 
 ---
 
-## 🏆 Achievements & Certifications
+## Achievements & Certifications
 
-- 📊 **Published Technical Writer** - 5+ articles on advanced ML algorithms
-- 🎯 **Problem Solver** - Regular LeetCode and algorithmic challenge participant
-- 🤖 **AI Enthusiast** - Active contributor to open-source ML projects
-- 📈 **Data Science Advocate** - Speaker at local tech meetups
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rkuma18&theme=tokyonight" alt="Wakatime Stats"/>
-</div>
+- **Published Technical Writer** - 5+ articles on advanced ML algorithms
+- **Problem Solver** - Regular LeetCode and algorithmic challenge participant
+- **AI Enthusiast** - Active contributor to open-source ML projects
+- **Data Science Advocate** - Speaker at local tech meetups
 
 ---
 
-## 🎯 Current Focus
+
+
+
+## Current Focus
 
 ```mermaid
 graph TD
@@ -192,7 +240,7 @@ graph TD
 
 ---
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 I'm always interested in collaborating on data science projects, discussing ML algorithms, or sharing insights about the field. Feel free to reach out!
 
@@ -206,9 +254,7 @@ I'm always interested in collaborating on data science projects, discussing ML a
   <a href="https://www.linkedin.com/in/rk0718">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://calendly.com/rkuma18">
-    <img src="https://img.shields.io/badge/Schedule%20Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Schedule Meeting"/>
-  </a>
+  
 </div>
 
 ---
@@ -219,11 +265,13 @@ I'm always interested in collaborating on data science projects, discussing ML a
 
 ---
 
+
 <div align="center">
-  <i>⭐️ From [rkuma18](https://github.com/rkuma18) | Show some ❤️ by starring repositories you find interesting!</i>
+  <h4>🌟 Made with Passion by <a href="https://github.com/rkuma18" target="_blank">rkuma18</a></h4>
+  <p>💖 Show some love by starring the repositories you find useful or inspiring!</p>
 </div>
 
 <div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee"/>
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
 </div>
+
