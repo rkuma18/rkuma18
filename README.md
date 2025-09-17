@@ -202,11 +202,11 @@ I'm a **Data Scientist** passionate about transforming complex data into actiona
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [From Generative AI to Agentic AI: The Evolution of Intelligent Systems](https://medium.com/@rkuma18/from-generative-ai-to-agentic-ai-the-evolution-of-intelligent-systems-7148092c8041?source=rss-4c12f5049ddf------2)
 - [MCP Architecture &amp; Primitives: A Deep Dive](https://medium.com/@rkuma18/mcp-architecture-primitives-a-deep-dive-bd4dcda64e13?source=rss-4c12f5049ddf------2)
 - [The Model Context Protocol &lpar;MCP&rpar;: Building a Unified AI Future](https://medium.com/@rkuma18/the-model-context-protocol-mcp-building-a-unified-ai-future-74b699ff5c36?source=rss-4c12f5049ddf------2)
 - [The NLP Landscape Till Today: From Rules to Reasoning &lpar;2025 Edition&rpar;](https://medium.com/@rkuma18/the-nlp-landscape-till-today-from-rules-to-reasoning-2025-edition-13c623d00eca?source=rss-4c12f5049ddf------2)
 - [NLP Pipeline: From Words to Contextual Meaning](https://medium.com/@rkuma18/nlp-pipeline-from-words-to-contextual-meaning-2dc8358c2340?source=rss-4c12f5049ddf------2)
-- [KD-Trees — Speeding Up K-NN for Large Datasets](https://medium.com/@rkuma18/kd-trees-speeding-up-k-nn-for-large-datasets-aa6d1b4ff7a5?source=rss-4c12f5049ddf------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More blog posts...](https://medium.com/@rkuma18)
