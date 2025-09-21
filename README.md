@@ -202,11 +202,11 @@ I'm a **Data Scientist** passionate about transforming complex data into actiona
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Embeddings vs Logits vs KV Cache: A Beginner-Friendly Guide to How LLMs Work](https://medium.com/@rkuma18/embeddings-vs-logits-vs-kv-cache-a-beginner-friendly-guide-to-how-llms-work-bac164b95098?source=rss-4c12f5049ddf------2)
+- [AI is About to Read Your Mind: The Multimodal Tokenization Revolution](https://medium.com/@rkuma18/ai-is-about-to-read-your-mind-the-multimodal-tokenization-revolution-3ad11788841d?source=rss-4c12f5049ddf------2)
 - [Why Your AI Bills Are 3x Higher Than They Should Be &lpar;And How to Fix It&rpar;](https://medium.com/@rkuma18/why-your-ai-bills-are-3x-higher-than-they-should-be-and-how-to-fix-it-c53d8d0d2ad9?source=rss-4c12f5049ddf------2)
 - [The Secret Language of AI: How ChatGPT Actually Reads Your Text](https://medium.com/@rkuma18/the-secret-language-of-ai-how-chatgpt-actually-reads-your-text-9f3eeda08564?source=rss-4c12f5049ddf------2)
 - [Agentic AI: How Autonomous, Goal-Driven Systems Are Redefining the Future of Intelligence](https://medium.com/@rkuma18/agentic-ai-how-autonomous-goal-driven-systems-are-redefining-the-future-of-intelligence-e4eca74e32f1?source=rss-4c12f5049ddf------2)
-- [Understanding the MCP Lifecycle: From Initialization to Shutdown](https://medium.com/@rkuma18/understanding-the-mcp-lifecycle-from-initialization-to-shutdown-8ea0531e8dea?source=rss-4c12f5049ddf------2)
-- [From Generative AI to Agentic AI: The Evolution of Intelligent Systems](https://medium.com/@rkuma18/from-generative-ai-to-agentic-ai-the-evolution-of-intelligent-systems-7148092c8041?source=rss-4c12f5049ddf------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More blog posts...](https://medium.com/@rkuma18)
