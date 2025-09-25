@@ -202,11 +202,11 @@ I'm a **Data Scientist** passionate about transforming complex data into actiona
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LoRA vs QLoRA vs Full Fine-tuning: Which Approach Should You Choose?](https://medium.com/@rkuma18/lora-vs-qlora-vs-full-fine-tuning-which-approach-should-you-choose-3fe9c21474ec?source=rss-4c12f5049ddf------2)
 - [Faster, Cheaper AI: Practical Throughput Tactics for AI Engineers](https://medium.com/@rkuma18/faster-cheaper-ai-practical-throughput-tactics-for-ai-engineers-b835c55fb244?source=rss-4c12f5049ddf------2)
 - [Your LLM Crashed in Production. Here’s Why](https://medium.com/@rkuma18/your-llm-crashed-in-production-heres-why-359a4a2016c2?source=rss-4c12f5049ddf------2)
 - [Guide to LLM Serving Stacks: vLLM vs TGI vs Triton](https://medium.com/@rkuma18/guide-to-llm-serving-stacks-vllm-vs-tgi-vs-triton-a10f96a3fcaf?source=rss-4c12f5049ddf------2)
 - [RLHF/DPO Overview &lpar;from first principles&rpar;](https://medium.com/@rkuma18/rlhf-dpo-overview-from-first-principles-59c32eee8ce2?source=rss-4c12f5049ddf------2)
-- [Pretraining vs Finetuning vs Instruct: How Language Models Actually Learn](https://medium.com/@rkuma18/pretraining-vs-finetuning-vs-instruct-how-language-models-actually-learn-c4640c62a51a?source=rss-4c12f5049ddf------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More blog posts...](https://medium.com/@rkuma18)
