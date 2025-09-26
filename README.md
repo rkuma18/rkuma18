@@ -202,11 +202,11 @@ I'm a **Data Scientist** passionate about transforming complex data into actiona
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Stop Your RAG System from Lying: A Grounded Evaluation Framework](https://medium.com/@rkuma18/how-to-stop-your-rag-system-from-lying-a-grounded-evaluation-framework-b33e75fd69b5?source=rss-4c12f5049ddf------2)
 - [The Hidden Danger of PEFT: Why Your Fine-tuned Model Forgot Everything](https://medium.com/@rkuma18/the-hidden-danger-of-peft-why-your-fine-tuned-model-forgot-everything-4e7f97a2a539?source=rss-4c12f5049ddf------2)
 - [LoRA vs QLoRA vs Full Fine-tuning: Which Approach Should You Choose?](https://medium.com/@rkuma18/lora-vs-qlora-vs-full-fine-tuning-which-approach-should-you-choose-3fe9c21474ec?source=rss-4c12f5049ddf------2)
 - [Faster, Cheaper AI: Practical Throughput Tactics for AI Engineers](https://medium.com/@rkuma18/faster-cheaper-ai-practical-throughput-tactics-for-ai-engineers-b835c55fb244?source=rss-4c12f5049ddf------2)
 - [Your LLM Crashed in Production. Here’s Why](https://medium.com/@rkuma18/your-llm-crashed-in-production-heres-why-359a4a2016c2?source=rss-4c12f5049ddf------2)
-- [Guide to LLM Serving Stacks: vLLM vs TGI vs Triton](https://medium.com/@rkuma18/guide-to-llm-serving-stacks-vllm-vs-tgi-vs-triton-a10f96a3fcaf?source=rss-4c12f5049ddf------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More blog posts...](https://medium.com/@rkuma18)
