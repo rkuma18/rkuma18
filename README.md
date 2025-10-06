@@ -202,11 +202,11 @@ I'm a **Data Scientist** passionate about transforming complex data into actiona
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [From Embeddings to Search: FAISS, HNSW, and IVF-PQ Made Simple for Engineers](https://medium.com/@rkuma18/from-embeddings-to-search-faiss-hnsw-and-ivf-pq-made-simple-for-engineers-ba392e92ee6a?source=rss-4c12f5049ddf------2)
 - [How to Choose the Perfect Embedding Model for Your RAG System](https://medium.com/@rkuma18/how-to-choose-the-perfect-embedding-model-for-your-rag-system-8fd902abf4cc?source=rss-4c12f5049ddf------2)
 - [Responsible AI in Practice: Safety, Toxicity, and PII Testing for LLMs](https://medium.com/@rkuma18/responsible-ai-in-practice-safety-toxicity-and-pii-testing-for-llms-d3a5b9d55cee?source=rss-4c12f5049ddf------2)
 - [The Complete Guide to LLM Judge Models: G-Eval and Beyond](https://medium.com/@rkuma18/the-complete-guide-to-llm-judge-models-g-eval-and-beyond-2a488385cb9c?source=rss-4c12f5049ddf------2)
 - [How to Stop Your RAG System from Lying: A Grounded Evaluation Framework](https://medium.com/@rkuma18/how-to-stop-your-rag-system-from-lying-a-grounded-evaluation-framework-b33e75fd69b5?source=rss-4c12f5049ddf------2)
-- [The Hidden Danger of PEFT: Why Your Fine-tuned Model Forgot Everything](https://medium.com/@rkuma18/the-hidden-danger-of-peft-why-your-fine-tuned-model-forgot-everything-4e7f97a2a539?source=rss-4c12f5049ddf------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More blog posts...](https://medium.com/@rkuma18)
