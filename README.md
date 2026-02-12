@@ -165,19 +165,11 @@ AI agent using **GPT-4 function calling** for intelligent currency conversion wi
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rkuma18&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkuma18&layout=compact&theme=radical"/>
-</div>
-
-<div align="center">
-  <picture>
-    <source srcset="https://streak-stats.demolab.com/?user=rkuma18&theme=radical" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://streak-stats.demolab.com/?user=rkuma18&theme=react" media="(prefers-color-scheme: light)" />
-    <img src="https://streak-stats.demolab.com/?user=rkuma18&theme=radical" alt="GitHub Streak"/>
-  </picture>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rkuma18&theme=radical&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ---
+
 
 ## 📝 Latest Blog Posts
 
