@@ -36,7 +36,7 @@
 
 Gen AI Engineer specializing in **RAG systems**, **LLM fine-tuning**, and **AI agents**. Built 3 production AI systems achieving **96.2% F1-score** on financial NER and real-time multi-document retrieval.
 
-🚀 **Recent Work:**
+**Recent Work:**
 - **DocuChat AI**: Production RAG system with LangChain + ChromaDB (1000+ document corpus)
 - **Financial NER**: Fine-tuned DistilBERT to **96.2% F1-score** with <20ms/batch inference
 - **FX Intelligence Agent**: GPT-4 function calling for 170+ currencies + 14 cryptocurrencies
@@ -49,7 +49,7 @@ Gen AI Engineer specializing in **RAG systems**, **LLM fine-tuning**, and **AI a
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [DocuChat AI - Document Intelligence System](https://github.com/rkuma18/DocuChat-AI)
 
@@ -102,7 +102,7 @@ AI agent using **GPT-4 function calling** for intelligent currency conversion wi
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Programming Languages
 <div>
@@ -162,7 +162,7 @@ AI agent using **GPT-4 function calling** for intelligent currency conversion wi
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rkuma18&theme=radical&hide_border=false" alt="GitHub Streak" />
@@ -171,7 +171,7 @@ AI agent using **GPT-4 function calling** for intelligent currency conversion wi
 ---
 
 
-## 📝 Latest Blog Posts
+## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Building a High-Performance NER System for Transactional SMS: DistilBERT Fine-tuning](https://medium.com/@rkuma18/building-a-high-performance-ner-system-for-transactional-sms-distilbert-fine-tuning-c7134813383c?source=rss-4c12f5049ddf------2)
@@ -185,7 +185,7 @@ AI agent using **GPT-4 function calling** for intelligent currency conversion wi
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 ```mermaid
 graph LR
