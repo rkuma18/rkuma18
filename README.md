@@ -1,7 +1,7 @@
 # Hi there! I'm Roushan Kumar
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Scientist;Machine+Learning+Engineer;Technical+Writer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Gen+AI+Engineer;RAG+Systems+%7C+LLM+Fine-Tuning;96.2%25+F1-Score+NER+Model;Building+Production+AI+Systems" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -30,23 +30,79 @@
   <img src="https://komarev.com/ghpvc/?username=rkuma18&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
+---
 
+## 👨‍💻 About Me
+
+Gen AI Engineer specializing in **RAG systems**, **LLM fine-tuning**, and **AI agents**. Built 3 production AI systems achieving **96.2% F1-score** on financial NER and real-time multi-document retrieval.
+
+🚀 **Recent Work:**
+- **DocuChat AI**: Production RAG system with LangChain + ChromaDB (1000+ document corpus)
+- **Financial NER**: Fine-tuned DistilBERT to **96.2% F1-score** with <20ms/batch inference
+- **FX Intelligence Agent**: GPT-4 function calling for 170+ currencies + 14 cryptocurrencies
+
+💡 **Expertise:** RAG Architecture · BERT Fine-tuning · Vector Search · LangChain · PyTorch · Transformers
+
+📝 **Writing:** Technical deep-dives on Medium about NER, embeddings, FAISS, and LLM evaluation
+
+🔧 **Currently Working On:** Advanced RAG architectures, LLM evaluation frameworks, and agentic AI systems
 
 ---
 
-## About Me
+## 🚀 Featured Projects
 
-I'm a **Data Scientist** passionate about transforming complex data into actionable insights. Currently seeking opportunities to leverage my technical expertise in machine learning, statistical analysis, and data visualization to drive business impact.
+### [DocuChat AI - Document Intelligence System](https://github.com/rkuma18/DocuChat-AI)
 
-- **Currently Working On:** LLM, RAG and AgentAI
-- **Learning:** MLOps, Deep Learning architectures, and Technical Content Writing
-- **Interests:** LLM, Value Investing, Trekking and emerging AI technologies
-- **Writing:** Technical articles on Medium about ML algorithms and data science best practices
-- **Goal:** Contributing to innovative data-driven solutions that make a real-world impact
+Production-ready **RAG application** enabling natural language Q&A across multiple documents. Built with **LangChain, FastAPI, and ChromaDB** for semantic search with history-aware retrieval.
+
+**Key Features:**
+- Multi-document support (PDF, DOCX, HTML)
+- History-aware conversational retrieval
+- Session-based chat persistence with SQLite
+- Multi-LLM support (OpenAI, Anthropic, Google)
+
+**Tech Stack:** LangChain · ChromaDB · FastAPI · GPT-4 · Streamlit · Docker
+
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-blue?logo=github)](https://github.com/rkuma18/DocuChat-AI)
+[![Stars](https://img.shields.io/github/stars/rkuma18/DocuChat-AI?style=social)](https://github.com/rkuma18/DocuChat-AI)
 
 ---
 
-## Tech Stack
+### [Financial SMS NER - 96.2% F1-Score Entity Extraction](https://github.com/rkuma18/FinancialSMS-NER)
+
+Fine-tuned **DistilBERT on 50k SMS messages** to extract 20+ financial entities achieving **96.2% F1-score, 96.2% precision, 96.2% recall**. Optimized for production with <20ms/batch inference.
+
+**Key Achievements:**
+- 96.2% F1-score on test set (20+ entity types)
+- 60% faster inference vs BERT-base (DistilBERT)
+- End-to-end NER pipeline with sub-word tokenization
+- Streamlit web interface for real-time predictions
+
+**Tech Stack:** PyTorch · Transformers · DistilBERT · Hugging Face · seqeval · Streamlit
+
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-blue?logo=github)](https://github.com/rkuma18/FinancialSMS-NER)
+[![Stars](https://img.shields.io/github/stars/rkuma18/FinancialSMS-NER?style=social)](https://github.com/rkuma18/FinancialSMS-NER)
+
+---
+
+### [FX Intelligence Agent - Multi-Currency AI Assistant](https://github.com/rkuma18/FX-Intelligence-Agent)
+
+AI agent using **GPT-4 function calling** for intelligent currency conversion with natural language interface. Supports **170+ fiat currencies and 14 cryptocurrencies** via ExchangeRate-API and CoinGecko.
+
+**Key Features:**
+- GPT-4 tool use with 4 specialized functions
+- Real-time exchange rates (fiat + crypto)
+- Conversational interface with Streamlit
+- Deployed on Hugging Face Spaces
+
+**Tech Stack:** LangChain · GPT-4 · Python · Streamlit · Docker · Hugging Face Spaces
+
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-blue?logo=github)](https://github.com/rkuma18/FX-Intelligence-Agent)
+[![Stars](https://img.shields.io/github/stars/rkuma18/FX-Intelligence-Agent?style=social)](https://github.com/rkuma18/FX-Intelligence-Agent)
+
+---
+
+## 🛠️ Tech Stack
 
 ### Programming Languages
 <div>
@@ -57,118 +113,56 @@ I'm a **Data Scientist** passionate about transforming complex data into actiona
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="SQL" width="40" height="40"/>
 </div>
 
-
-### AI/ML Frameworks
+### AI/ML Frameworks & Tools
 <div>
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" alt="TensorFlow" width="40" height="40"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/keras/D00000" alt="Keras" width="40" height="40"/>
-  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" alt="PyTorch" width="40" height="40"/>
   &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" alt="TensorFlow" width="40" height="40"/>
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="Scikit-learn" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/langchain/000000" alt="LangChain" width="40" height="40"/>
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/openai/412991" alt="OpenAI" width="40" height="40"/>
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/huggingface/FF6F00" alt="Hugging Face" width="40" height="40"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/langchain/000000" alt="LangChain" width="40" height="40"/>
-  &nbsp;&nbsp;
 </div>
 
-
-
-### AI/ML Specializations
+### Gen AI Specializations
 <div>
-  <img src="https://img.shields.io/badge/Neural%20Networks-FF6B35?style=for-the-badge&logo=neural-network&logoColor=white" alt="Neural Networks"/>
-  <img src="https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge&logo=natural-language-processing&logoColor=white" alt="NLP"/>
   <img src="https://img.shields.io/badge/RAG-9C27B0?style=for-the-badge&logo=retrieval-augmented-generation&logoColor=white" alt="RAG"/>
-  <img src="https://img.shields.io/badge/GenAI-E91E63?style=for-the-badge&logo=artificial-intelligence&logoColor=white" alt="GenAI"/>
-  <img src="https://img.shields.io/badge/LLMs-2196F3?style=for-the-badge&logo=large-language-models&logoColor=white" alt="LLMs"/>
-  <img src="https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logo=nltk&logoColor=white" alt="NLTK"/>
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/spacy.svg" alt="spaCy"/>
+  <img src="https://img.shields.io/badge/LLM%20Fine--tuning-2196F3?style=for-the-badge&logo=large-language-models&logoColor=white" alt="LLM Fine-tuning"/>
+  <img src="https://img.shields.io/badge/Function%20Calling-E91E63?style=for-the-badge&logo=artificial-intelligence&logoColor=white" alt="Function Calling"/>
+  <img src="https://img.shields.io/badge/Vector%20Search-4CAF50?style=for-the-badge&logo=search&logoColor=white" alt="Vector Search"/>
+  <img src="https://img.shields.io/badge/NER-FF6B35?style=for-the-badge&logo=natural-language-processing&logoColor=white" alt="NER"/>
 </div>
 
-### Development Tools
+### MLOps & Deployment
 <div>
-  <!-- Tableau (fallback to PNG icon) -->
-  <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" width="40" height="40"/>
-  &nbsp;&nbsp;
-
-  <!-- Excel (fallback to PNG icon) -->
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
-  &nbsp;&nbsp;
-
-  <!-- Docker -->
   <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="40" height="40"/>
   &nbsp;&nbsp;
-
-  <!-- Git -->
   <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="40" height="40"/>
   &nbsp;&nbsp;
-
-  <!-- DVC -->
-  <img src="https://cdn.simpleicons.org/dvc/13ADC7" alt="DVC" width="40" height="40"/>
-  &nbsp;&nbsp;
-
-  <!-- Jupyter -->
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" alt="Jupyter" width="40" height="40"/>
-  &nbsp;&nbsp;
-
-  <!-- MLflow -->
   <img src="https://cdn.simpleicons.org/mlflow/0194E2" alt="MLflow" width="40" height="40"/>
   &nbsp;&nbsp;
-
-  <!-- VS Code (fallback to Devicon) -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" alt="Jupyter" width="40" height="40"/>
 </div>
 
-
-
-### Cloud Platforms
+### Cloud & Databases
 <div>
   <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/amazonwebservices.svg" alt="AWS"/>
   <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/amazons3.svg" alt="Amazon S3"/>
   <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/awslambda.svg" alt="AWS Lambda"/>
-</div>
-
-
-### Databases & Storage
-<div>
-  <!-- MySQL -->
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="40" height="40"/>
-  &nbsp;&nbsp;
-  <!-- BigQuery (Google Cloud icon used as BigQuery is not separate) -->
-  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" alt="BigQuery" width="40" height="40"/>
-  &nbsp;&nbsp;
-  <!-- FAISS (Meta icon used as placeholder) -->
-  <img src="https://cdn.simpleicons.org/meta/00D4AA" alt="FAISS" width="40" height="40"/>
-  &nbsp;&nbsp;
-
-</div>
-
-
-### Statistical Methods
-<div>
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-00BCD4?style=for-the-badge&logo=statistics&logoColor=white" alt="Predictive Modeling"/>
-  <img src="https://img.shields.io/badge/Time%20Series-795548?style=for-the-badge&logo=chart-line&logoColor=white" alt="Time Series"/>
-  <img src="https://img.shields.io/badge/Regression-8BC34A?style=for-the-badge&logo=regression&logoColor=white" alt="Regression"/>
-  <img src="https://img.shields.io/badge/Classification-FF5722?style=for-the-badge&logo=classification&logoColor=white" alt="Classification"/>
-  <img src="https://img.shields.io/badge/Hypothesis%20Testing-607D8B?style=for-the-badge&logo=hypothesis&logoColor=white" alt="Hypothesis Testing"/>
-</div>
-
-### Core Competencies
-<div>
-  <img src="https://img.shields.io/badge/Client%20Relations-FF4081?style=for-the-badge&logo=handshake&logoColor=white" alt="Client Relations"/>
-  <img src="https://img.shields.io/badge/Project%20Management-3F51B5?style=for-the-badge&logo=trello&logoColor=white" alt="Project Management"/>
-  <img src="https://img.shields.io/badge/Solution%20Delivery-4CAF50?style=for-the-badge&logo=delivery&logoColor=white" alt="Solution Delivery"/>
-  <img src="https://img.shields.io/badge/Strategic%20Problem%20Solving-FF9800?style=for-the-badge&logo=lightbulb&logoColor=white" alt="Strategic Problem-Solving"/>
 </div>
 
 ---
 
-
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rkuma18&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -183,23 +177,9 @@ I'm a **Data Scientist** passionate about transforming complex data into actiona
   </picture>
 </div>
 
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rkuma18&theme=github-dark&area=true&hide_border=true&custom_title=Contribution+Activity"/>
-</div>
-
-
----
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rkuma18&theme=gruvbox&row=2&column=4&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies"/>
-</div>
-
-
 ---
 
-## Latest Blog Posts
+## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Building a High-Performance NER System for Transactional SMS: DistilBERT Fine-tuning](https://medium.com/@rkuma18/building-a-high-performance-ner-system-for-transactional-sms-distilbert-fine-tuning-c7134813383c?source=rss-4c12f5049ddf------2)
@@ -209,40 +189,35 @@ I'm a **Data Scientist** passionate about transforming complex data into actiona
 - [The Complete Guide to LLM Judge Models: G-Eval and Beyond](https://medium.com/@rkuma18/the-complete-guide-to-llm-judge-models-g-eval-and-beyond-2a488385cb9c?source=rss-4c12f5049ddf------2)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [More blog posts...](https://medium.com/@rkuma18)
+➡️ [More blog posts on Medium...](https://medium.com/@rkuma18)
 
 ---
 
-## Achievements & Certifications
-
-- **Published Technical Writer** - 5+ articles on advanced ML algorithms
-- **Problem Solver** - Regular LeetCode and algorithmic challenge participant
-- **AI Enthusiast** - Active contributor to open-source ML projects
-- **Data Science Advocate** - Speaker at local tech meetups
-
----
-
-
-
-
-## Current Focus
+## 🎯 Current Focus
 
 ```mermaid
-graph TD
-    A[LLM Research] --> B[RAG Systems]
-    A --> C[Agent AI]
-    B --> D[Vector Databases]
-    C --> E[LangGraph Implementation]
-    D --> F[Semantic Search]
-    E --> F
-    F --> G[Production Deployment]
+graph LR
+    A[Gen AI Engineering] --> B[RAG Systems]
+    A --> C[LLM Fine-tuning]
+    A --> D[AI Agents]
+    B --> E[Vector Search]
+    C --> E
+    D --> F[Function Calling]
+    E --> G[Production Deployment]
+    F --> G
 ```
+
+**Exploring:**
+- Advanced RAG architectures (hybrid search, re-ranking)
+- LLM evaluation frameworks (RAGAS, LlamaIndex)
+- Agentic workflows with LangGraph
+- Production MLOps for Gen AI systems
 
 ---
 
-## Let's Connect!
+## 🤝 Let's Connect!
 
-I'm always interested in collaborating on data science projects, discussing ML algorithms, or sharing insights about the field. Feel free to reach out!
+I'm always interested in collaborating on Gen AI projects, discussing RAG architectures, LLM fine-tuning strategies, or sharing insights about production AI systems.
 
 <div align="center">
   <a href="https://itsrkumar.com/">
@@ -254,7 +229,9 @@ I'm always interested in collaborating on data science projects, discussing ML a
   <a href="https://www.linkedin.com/in/rk0718">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  
+  <a href="https://medium.com/@rkuma18">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
 </div>
 
 ---
@@ -265,13 +242,11 @@ I'm always interested in collaborating on data science projects, discussing ML a
 
 ---
 
-
 <div align="center">
-  <h4>🌟 Made with Passion by <a href="https://github.com/rkuma18" target="_blank">rkuma18</a></h4>
-  <p>💖 Show some love by starring the repositories you find useful or inspiring!</p>
+  <h4>⭐ Show some love by starring repositories you find useful!</h4>
+  <p>💬 Open to Gen AI Engineer opportunities · Building production AI systems</p>
 </div>
 
 <div align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
 </div>
-
